@@ -1,0 +1,17 @@
+IPI trabalho individual 2
+Bruna Azambuja 180014153
+
+
+-> As imagens necessárias para o funcionamento do programa se encontram nas pastas de cada exercício.
+
+-> Cada pasta contém um exercício, incluindo dentro desta:
+
+	-uma main (chamada pelo número do exercício - exemplo: ex.1.);
+
+	-um arquivo por função implementada, o nome de cada função indica seu funcionamento (exemplo: InversaFourier, FindCookie etc.);
+
+	-a imagem de entrada daquele exercício;
+
+	-um diretório com imagens que dizem respeito ao processo, mostram o passo a passo do programa (estas imagens também podem ser vistas mais explicadas no relatório, por esse motivo ficaram num diretório separado de nome: 'ImagensPassoAPasso');
+
+-> O programa foi escrito em Matlab na versão 2018b, e requer a biblioteca de processamento de imagens.
